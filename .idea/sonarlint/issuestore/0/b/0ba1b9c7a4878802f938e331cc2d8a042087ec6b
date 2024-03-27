@@ -1,0 +1,42 @@
+
+¯
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(îìĞãûÿÿÿÿJ$ca30dd2d-dd94-4e90-8047-23956ac4d244
+¸
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(îìĞãûÿÿÿÿJ$ba09f894-0530-4688-a99a-cedf043debb6
+Â
+java:S1130"€Remove the declaration of thrown exception 'org.example.exception.NotFoundException', as it cannot be thrown from method's body.(îìĞãûÿÿÿÿJ$9ff301e7-cfd3-44fd-9cc2-285fa094beca
+v
+java:S1128"5Remove this unused import 'org.example.model.Course'.(æç“İıÿÿÿÿJ$225635c4-601b-42b5-a073-fd17f064f106
+w
+java:S1128"6Remove this unused import 'org.example.model.Student'.(ÚÆÊşÿÿÿÿJ$01875a93-76fe-46bf-bdc4-395a65a7a919
+ƒ
+java:S1128"@Remove this unused import 'org.example.repositoryDAO.CourseDAO'.(ı€£Ï8«¥ê·å1J$53e105b6-46b7-4fc7-bd0e-0415ddf8833b
+‰
+java:S1128	"ARemove this unused import 'org.example.repositoryDAO.StudentDAO'.(Ó“Ë¸ıÿÿÿÿ8«¥ê·å1J$8f291e7c-d4e6-429a-a795-22089b5a650f
+Œ
+java:S1128
+"IRemove this unused import 'org.example.repositoryDAO.impl.CourseDAOImpl'.(¬ˆÛµ8«¥ê·å1J$14a453d7-b977-490b-a221-414a089ef052
+’
+java:S1128"JRemove this unused import 'org.example.repositoryDAO.impl.StudentDAOImpl'.(¨Ê°øûÿÿÿÿ8«¥ê·å1J$6bf75f19-dcd9-47c7-b74f-6cbbd7a15e4b
+†
+java:S1128">Remove this unused import 'org.example.service.CourseService'.(ŞŸúÇÿÿÿÿÿ8òæé·å1J$4829dc02-e6bd-42b6-bf87-55c794556db0
+‡
+java:S1128"?Remove this unused import 'org.example.service.StudentService'.(ìÆ”³úÿÿÿÿ8«¥ê·å1J$7b18ac34-dcd6-4442-a1ef-f185794ca254
+Š
+java:S1128"GRemove this unused import 'org.example.service.impl.CourseServiceImpl'.(’¾Ñ˜8òæé·å1J$f912e046-285d-4c1f-8a18-42bc305f31d7
+
+java:S1128"HRemove this unused import 'org.example.service.impl.StudentServiceImpl'.(ş½£üÿÿÿÿ8«¥ê·å1J$5e88586e-a60a-4d33-9ca3-a073d6d492ae
+u
+java:S1128"4Remove this unused import 'org.example.servlet.dto'.(í¨±çùÿÿÿÿJ$55f88b2a-78a8-4257-b127-5a4488ae6c4c
+
+java:S1128"GRemove this unused import 'org.example.servlet.mapper.CourseDtoMapper'.(Úšû›ûÿÿÿÿ8¬¥ê·å1J$e1061af1-f9db-4be4-b857-9bb9058cce1e
+‹
+java:S1128"HRemove this unused import 'org.example.servlet.mapper.StudentDtoMapper'.(°³ˆ8¬¥ê·å1J$e4be67be-2658-4e57-b6b5-35371c61b203
+“
+java:S1128"PRemove this unused import 'org.example.servlet.mapper.impl.CourseDtoMapperImpl'.(Ğß¦8¬¥ê·å1J$32170170-21dd-41c1-84a6-110279826adf
+™
+java:S1128"QRemove this unused import 'org.example.servlet.mapper.impl.StudentDtoMapperImpl'.(öê‰´ÿÿÿÿÿ8¬¥ê·å1J$1ebe7787-1a7d-4b21-bbab-12eb29edd8b7
+r
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿJ$8dbbbd62-78cf-4b8e-976a-3ff69281611e
+l
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿJ$3f951d66-85ba-4c6d-9a70-a431c3610cdf
